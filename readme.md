@@ -1,17 +1,17 @@
-## Tentang Presentasi Website
+## About The Presentation Of The Website
 
-Aplikasi ini bertujuan untuk mempermudah audience untuk mengikuti presentator dengan melihat artikel dan mendownload bahan presentasi presentator
+This application aims to facilitate audience to follow presentator by looking at the article and download presentation materials presentator
 
 - Laravel 5.7
 - MYSQL
 ![Gambar Halaman depan](https://raw.githubusercontent.com/iputualdyck/presentasi-web/master/public/screenshoot/images.png)
 
-## Instalasi
+## Installation
 
 lakukanlah tata cara berikut ini.
-1. Buka `cmd` di htdocs atau sejenisnya.
-2. Clone projek dengan mengetik `git clone https://github.com/iputualdyck/presentasi-web.git`.
-3. Setelah selesai clone, ketik `cd nama_folder` untuk masuk ke folder projek.
-5. Buka file `.env` pada projek lalu atur koneksi database nya
-6. Aplikasi siap di gunakan
-7. Akses Url `/login` untuk membuka form login admin dan `/register` untuk mendaftarkan admin baru
+1. Open cmd in the htdocs or the like.
+2. Clone project by typing git clone `https://github.com/arifhidayat65/presentation-website.git`.
+3. Once completed the clone cd, type nama_folder to get to the folder of the project.
+5. Open the file in the project env. and then set up its database connection
+6. The application is ready to use
+7. Access the Url/login to open the login form admin and/register to register the new admin
